@@ -1,0 +1,8 @@
+{
+  "name": "cryptosistem",
+  "version": "1.0.0",
+  "dependencies": [
+    "aws-sdk-cpp"
+  ],
+  "builtin-baseline": "be58b12c3e9c3e32afed91706c11c42a9630bca4"
+}
